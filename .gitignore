@@ -1,2 +1,4 @@
 *.zip
 pretrained_model
+.idea
+.vscode
